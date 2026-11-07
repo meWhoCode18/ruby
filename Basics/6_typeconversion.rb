@@ -18,3 +18,4 @@ dollar = 1000.00.to_s
 puts dollar.class
 
 p "typeconversion completed"
+
