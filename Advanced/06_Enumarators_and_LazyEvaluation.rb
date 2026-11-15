@@ -14,3 +14,7 @@ result = numbers.each
 
 puts result.class
 
+
+
+
+p "Enumerator Completed"
