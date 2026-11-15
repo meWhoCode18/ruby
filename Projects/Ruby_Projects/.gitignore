@@ -1,0 +1,13 @@
+# Ruby / Bundler
+.bundle/
+vendor/bundle/
+*.gem
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
